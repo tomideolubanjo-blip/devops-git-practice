@@ -3,9 +3,9 @@ Tomide Olubanjo
 ## Course Name
 DevOps
 ### Learnt from Git & GitHub
-I learnt about branch (main and feature)
-I learnt about add (which mean to stage your file)
-I learnt about commit (after staging your file you commite to your local )
-I learnt about pull request (when working within a team when you make a change and you need an approval for the change made after it has been reviewed)
-I  learnt about fetch (Just to view a change made before you pull and merge)
-I learnt how to push from my local to my remote
+I learnt about branches such as main and feature, which help manage different versions of a project.
+I learnt about git add, which stages files before committing them.
+I learnt about git commit, which saves staged changes to the local repository.
+I learnt about pull requests, which are used in team environments to propose changes and get them reviewed before merging.
+I learnt about git fetch, which allows you to see updates from a remote repository before pulling and merging them
+I learnt how to push code from my local repository to a remote repository.
